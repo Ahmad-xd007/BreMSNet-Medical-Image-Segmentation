@@ -1,0 +1,99 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# VS Code
+.vscode/
+.vscode-server/
+
+# Dataset folders
+CBIS/
+INbreast Release 1.0/
+CBIS_clean_masks/
+CBIS_debug_masks/
+
+# Generated CSV files
+*.csv
+
+# Checkpoints and weights
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# Results and logs
+results/
+runs/
+logs/
+*.log
+
+# Private files
+dataset.py
+model/bremsnet.py
+
+# Temporary files
+.DS_Store
+Thumbs.db# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# VS Code
+.vscode/
+.vscode-server/
+
+# Dataset folders
+CBIS/
+INbreast Release 1.0/
+CBIS_clean_masks/
+CBIS_debug_masks/
+
+# Generated dataset CSV files
+*.csv
+
+# Checkpoints and weights
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# Results
+results/
+runs/
+logs/
+*.log
+
+# Private implementation
+dataset.py
+model/bremsnet.py
+
+# Temporary files
+.DS_Store
+Thumbs.db# Private implementation files
+dataset.py
+model/bremsnet.py
+
+# Results and experiment outputs
+results/
+runs/
+logs/
+*.log
+
+# Generated files
+*.csv
+
+# Checkpoints and weights
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
